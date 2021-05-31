@@ -1,7 +1,6 @@
 C:\Users\Keven Castilho\source\repos\Minecraft Server Properties\bin\Release\Minecraft Server Properties.exe.config
 C:\Users\Keven Castilho\source\repos\Minecraft Server Properties\bin\Release\Minecraft Server Properties.exe
 C:\Users\Keven Castilho\source\repos\Minecraft Server Properties\bin\Release\Minecraft Server Properties.pdb
-C:\Users\Keven Castilho\source\repos\Minecraft Server Properties\obj\Release\Minecraft Server Properties.csprojAssemblyReference.cache
 C:\Users\Keven Castilho\source\repos\Minecraft Server Properties\obj\Release\Minecraft_Server_Properties.Form1.resources
 C:\Users\Keven Castilho\source\repos\Minecraft Server Properties\obj\Release\Minecraft_Server_Properties.Properties.Resources.resources
 C:\Users\Keven Castilho\source\repos\Minecraft Server Properties\obj\Release\Minecraft Server Properties.csproj.GenerateResource.cache

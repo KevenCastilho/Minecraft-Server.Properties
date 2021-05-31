@@ -29,6 +29,7 @@ namespace Minecraft_Server_Properties
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             this.lblLogo = new System.Windows.Forms.Label();
             this.lblLogoSub = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -1295,6 +1296,7 @@ namespace Minecraft_Server_Properties
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.lblLogoSub);
             this.Controls.Add(this.lblLogo);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Minecraft server.properties";
